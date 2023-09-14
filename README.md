@@ -21,7 +21,7 @@ The bounty reward for participation in the testnet will be rewarded once the tes
 There will be 5 top prizes and 2 more surprise spots within top 50.
 
 ## Timeline:
-The exact timeline and details will be announced in our official channels like discord, signal, etc. Please keep an eye on our channels for latest update about the tesnet
+The exact timeline and details will be announced in our official channels like discord, signal, etc. Please keep an eye on our channels for latest update.
 
 
 ### For example
