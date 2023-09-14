@@ -1,10 +1,10 @@
 # Intro about Impact Protocol
-Impact Protocol is one of the first chains with a hybrid consensus mechanism. It has the power of both PoW(proof of work) and PoS(proof of stake). The Impact protocol is built on a substrate framework, and it is a modular framework that allows developers to be easy and efficient. Impact follows the thought process of building a multichain future. It will have multiple parachains connected/integrated and running in parallel, with thousands of TPS
+Impact Protocol is one of the first chains with a hybrid consensus mechanism. It has the power of both PoW(proof of work) and PoS(proof of stake). The Impact protocol is built on a substrate framework, and it is a modular framework that allows developers to be easy and efficient. Impact follows the thought process of building a multichain future. It will have multiple parachains connected/integrated and running in parallel, with thousands of TPS. Globalboost is the sister blockchain which was started around 8 years before and forms the basic for the Impact Protocol
 
 ## GlobalBoost Competition
 
 ## Description:
-We are offering the a new competition for interactions with the GLobalboost blockchain. The goal is to interact with the globalboost blockchain(for example transactions). Only those transactions will be considered which are trackable in globalboost blockchain explorer
+We are offering the a new competition for interactions with the Globalboost blockchain. The goal is to interact with the globalboost blockchain(for example transactions). Only those transactions will be considered which are trackable in globalboost blockchain explorer
 
 ## Participation Requirements: 
 Participants must have a basic understanding of blockchain technology . They must also complete a registration process to participate in this competition. Every participants create an issue presenting the idea and description 
