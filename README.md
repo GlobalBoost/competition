@@ -17,11 +17,24 @@ Participants must have a basic understanding of blockchain technology . They mus
  - Any ideas are welcome to make globalboost blockchain more usable
 
 ## Reward:
-The bounty reward for participation in the testnet will be rewarded once the testent period is completed. We will be tracking using the blockchain explorer for top transactions done for the participants.
-There will be 5 top prizes and 2 more surprise spots within top 50.
+You'll have the opportunity to earn rewards every day, week and month.
+
+Key Highlights of the Daily,Weekly and Monthly Reward Structure
+
+1. Frequent Rewards: You asked for it, and we've listened! With daily, weekly and monthly rewards, you'll have the chance to earn and enjoy the benefits of your contributions more frequently.
+
+2. Increased Engagement: We believe this change will encourage greater participation and engagement within our impact ecosystem. Whether you're a new member or a seasoned one, there will be opportunities for you to be rewarded for your involvement.
+
+3. Immediate Gratification: You won't have to wait for an entire month to see the results of your efforts. With daily, weekly and monthly rewards, you'll experience more immediate gratification for your hard work and dedication.
+
+We're excited about this change and are committed to making the transition as smooth as possible for all members and with this we will see more number of winners 
 
 ## Timeline:
 The exact timeline and details will be announced in our official channels like discord, signal, etc. Please keep an eye on our channels for latest update.
+
+## Actual Post
+You can always check the update to date information here
+https://medium.com/@GlobalBoost/join-the-ultimate-globalboost-competition-your-chance-to-win-big-b3100508b6c5
 
 
 ### For example
