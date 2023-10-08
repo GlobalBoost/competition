@@ -29,6 +29,12 @@ Key Highlights of the Daily,Weekly and Monthly Reward Structure
 
 We're excited about this change and are committed to making the transition as smooth as possible for all members and with this we will see more number of winners 
 
+Note: No same person can win consecutive days, weeks or month
+
+Daily rewards: $5 for one winner 
+Weekly rewards: $20 and $10 for first and second 
+Monthly  rewards: $200, $100 and $50 for three winners
+
 ## Timeline:
 The exact timeline and details will be announced in our official channels like discord, signal, etc. Please keep an eye on our channels for latest update.
 
